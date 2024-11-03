@@ -1,4 +1,3 @@
-[title]: <> (nasajkanten's website)
+[title]: <> (nasajkanten's blog)
 [icon]: <> (http://vitalik.ca/images/icon.png)
-[domain](https://few-xylophone-melodic.on-fleek.app/)
 [posts_directory](./posts)
