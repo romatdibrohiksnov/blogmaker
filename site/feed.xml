@@ -1,19 +1,28 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-  <title>nasajkanten's website</title>
-  <link>https://few-xylophone-melodic.on-fleek.app//</link>
-  <description>nasajkanten's website</description>
+  <title>nasajkanten's blog</title>
+  <link>https://nasajkanten.on-fleek.app//</link>
+  <description>nasajkanten's blog</description>
   <image>
       <url>http://vitalik.ca/images/icon.png</url>
-      <title>nasajkanten's website</title>
-      <link>https://few-xylophone-melodic.on-fleek.app//</link>
+      <title>nasajkanten's blog</title>
+      <link>https://nasajkanten.on-fleek.app//</link>
   </image>
 
 <item>
+<title>second post</title>
+<link>https://nasajkanten.on-fleek.app//./posts/2024/11/3/1.html</link>
+<guid>https://nasajkanten.on-fleek.app//./posts/2024/11/3/1.html</guid>
+<pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
 <title>Hello world</title>
-<link>https://few-xylophone-melodic.on-fleek.app//./posts/2024/11/2/hello.html</link>
-<guid>https://few-xylophone-melodic.on-fleek.app//./posts/2024/11/2/hello.html</guid>
+<link>https://nasajkanten.on-fleek.app//./posts/2024/11/2/hello.html</link>
+<guid>https://nasajkanten.on-fleek.app//./posts/2024/11/2/hello.html</guid>
 <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
 <description></description>
 </item>
